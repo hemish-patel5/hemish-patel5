@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 Software Engineering Student 💻<br>I’m currently working on a Grocery Price Comparison App<br>Interested in full-stack development and machine learning<br>Currently exploring interpretable AI<br>You can contact me at hemishpatel2005@gmail.com<br>
 
 
