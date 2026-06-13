@@ -1,5 +1,6 @@
 ## 💫 About Me:
-Final Year Software Engineering Student 💻<br>Interested in full-stack development and embedded systems<br>Currently exploring Machine Learning and Microcontrollers<br>You can contact me at hemishpatel2005@gmail.com<br>
+Final Year Software Engineering Student 💻<br>Interested in full-stack development and embedded systems<br>Exploring Machine Learning and Microcontrollers<br>You can contact me at hemishpatel2005@gmail.com<br>
+Currently seeking Graduate Software Engineering roles and Internship Opportunities<br>
 
 
 ## 🌐 Socials:
