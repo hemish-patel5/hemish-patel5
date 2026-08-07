@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="680" viewBox="0 0 660 590" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="466" viewBox="0 0 660 405" role="img" aria-labelledby="title desc">
   <title id="title">Hemish Patel GitHub profile</title>
   <desc id="desc">Terminal-style profile showing Hemish Patel's education, interests, technologies, projects, and contact details.</desc>
-  <rect width="660" height="590" rx="16" fill="#2d2c31"/>
+  <rect width="660" height="405" rx="16" fill="#101010"/>
   <style>
     .text { font: 14px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; fill: #f8f8f2; }
     .art { font: 16px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; fill: #8ae234; }
@@ -14,24 +14,24 @@
   </style>
 
   <g class="text" xml:space="preserve">
-    <text x="47" y="97"><tspan class="key">hemish@patel </tspan></text>
-    <text x="47" y="112"><tspan class="cc">------------------------------------------------------- </tspan></text>
+    <text x="47" y="30"><tspan class="key">hemish@patel </tspan></text>
+    <text x="47" y="45"><tspan class="cc">------------------------------------------------------- </tspan></text>
     
-    <text x="50" y="136"><tspan class="cc"></tspan><tspan class="key">Education</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Software Engineering @ AUT</tspan></text>
-    <text x="50" y="164"><tspan class="cc"></tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Full-stack, Embedded, ML</tspan></text>
-    <text x="50" y="192"><tspan class="cc"></tspan><tspan class="key">Languages</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Python, JavaScript, C#, C++</tspan></text>
-    <text x="50" y="220"><tspan class="cc"></tspan><tspan class="key">Also</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">Java, SQL, HTML, CSS</tspan></text>
-    <text x="50" y="248"><tspan class="cc"></tspan><tspan class="key">Frameworks</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">React, Node.js, TensorFlow</tspan></text>
-    <text x="50" y="276"><tspan class="cc"></tspan><tspan class="key">Hardware</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Raspberry Pi, ESP32, Arduino</tspan></text>
-    <text x="50" y="304"><tspan class="cc"></tspan><tspan class="key">Tools</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Git, Linux, Docker, MQTT</tspan></text>
+    <text x="50" y="69"><tspan class="cc"></tspan><tspan class="key">Education</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Software Engineering @ AUT</tspan></text>
+    <text x="50" y="97"><tspan class="cc"></tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Full-stack, Embedded, ML</tspan></text>
+    <text x="50" y="125"><tspan class="cc"></tspan><tspan class="key">Languages</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Python, JavaScript, C#, C++</tspan></text>
+    <text x="50" y="153"><tspan class="cc"></tspan><tspan class="key">Also</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">Java, SQL, HTML, CSS</tspan></text>
+    <text x="50" y="181"><tspan class="cc"></tspan><tspan class="key">Frameworks</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">React, Node.js, TensorFlow</tspan></text>
+    <text x="50" y="209"><tspan class="cc"></tspan><tspan class="key">Hardware</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Raspberry Pi, ESP32, Arduino</tspan></text>
+    <text x="50" y="237"><tspan class="cc"></tspan><tspan class="key">Tools</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Git, Linux, Docker, MQTT</tspan></text>
 
-    <text x="50" y="332"><tspan class="cc"></tspan><tspan class="key">Status</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Final-year Software Engineering Student</tspan></text>
-    <text x="50" y="360"><tspan class="cc"></tspan><tspan class="key">Location</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Auckland, New Zealand</tspan></text>
-    <text x="50" y="388"><tspan class="cc"></tspan><tspan class="key">Seeking</tspan>:<tspan class="cc"> ............... </tspan><tspan class="accent">Graduate &amp; internship opportunities</tspan></text>
+    <text x="50" y="265"><tspan class="cc"></tspan><tspan class="key">Status</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Final-year Software Engineering Student</tspan></text>
+    <text x="50" y="293"><tspan class="cc"></tspan><tspan class="key">Location</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Auckland, New Zealand</tspan></text>
+    <text x="50" y="321"><tspan class="cc"></tspan><tspan class="key">Seeking</tspan>:<tspan class="cc"> ............... </tspan><tspan class="accent">Graduate &amp; internship opportunities</tspan></text>
 
-    <text x="50" y="416"><tspan class="cc"></tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">hemishpatel2005@gmail.com</tspan></text>
+    <text x="50" y="349"><tspan class="cc"></tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">hemishpatel2005@gmail.com</tspan></text>
     <a href="https://www.linkedin.com/in/hemish--patel" target="_blank">
-      <text x="50" y="444"><tspan class="cc"></tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">linkedin.com/in/hemish--patel</tspan></text>
+      <text x="50" y="377"><tspan class="cc"></tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">linkedin.com/in/hemish--patel</tspan></text>
     </a>
   </g>
 </svg>
