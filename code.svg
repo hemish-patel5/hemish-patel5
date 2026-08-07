@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="660" height="590" viewBox="0 0 660 590" role="img" aria-labelledby="title desc">
+  <title id="title">Hemish Patel GitHub profile</title>
+  <desc id="desc">Terminal-style profile showing Hemish Patel's education, interests, technologies, projects, and contact details.</desc>
+  <rect width="660" height="590" rx="16" fill="#2d2c31"/>
+  <style>
+    .text { font: 14px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; fill: #f8f8f2; }
+    .art { font: 16px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; fill: #8ae234; }
+    .key { fill: #8ae234; font-weight: 700; }
+    .value { fill: #f8f8f2; }
+    .cc { fill: #6d6a72; }
+    .muted { fill: #f8f8f2; }
+    .accent { fill: #8ae234; font-weight: 700; }
+    .rule { stroke: #6d6a72; stroke-width: 1; stroke-dasharray: 2 6; }
+  </style>
+
+  <g class="text" xml:space="preserve">
+    <text x="50" y="35" class="art" xml:space="preserve">   __ __          _     __     ___       __      __</text>
+    <text x="50" y="55" class="art" xml:space="preserve">  / // /__ __ _  (_)__ / /    / _ \___ _/ /____ / /</text>
+    <text x="50" y="75" class="art" xml:space="preserve"> / _  / -_)  ' \/ (_-&lt;/ _ \  / ___/ _ `/ __/ -_) / </text>
+    <text x="50" y="95" class="art" xml:space="preserve">/_//_/\__/_/_/_/_/___/_//_/ /_/   \_,_/\__/\__/_/  </text>
+
+    <text x="47" y="112"><tspan class="cc">------------------------------------------------------- </tspan></text>
+    
+    <text x="50" y="136"><tspan class="cc"></tspan><tspan class="key">Education</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Software Engineering @ AUT</tspan></text>
+    <text x="50" y="164"><tspan class="cc"></tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Full-stack, Embedded, ML</tspan></text>
+    <text x="50" y="192"><tspan class="cc"></tspan><tspan class="key">Languages</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Python, JavaScript, C#, C++</tspan></text>
+    <text x="50" y="220"><tspan class="cc"></tspan><tspan class="key">Also</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">Java, SQL, HTML, CSS</tspan></text>
+    <text x="50" y="248"><tspan class="cc"></tspan><tspan class="key">Frameworks</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">React, Node.js, TensorFlow</tspan></text>
+    <text x="50" y="276"><tspan class="cc"></tspan><tspan class="key">Hardware</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Raspberry Pi, ESP32, Arduino</tspan></text>
+    <text x="50" y="304"><tspan class="cc"></tspan><tspan class="key">Tools</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Git, Linux, Docker, MQTT</tspan></text>
+
+    <text x="50" y="360"><tspan class="cc"></tspan><tspan class="key">Status</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Final-year Software Engineering Student</tspan></text>
+    <text x="50" y="385"><tspan class="cc"></tspan><tspan class="key">Location</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Auckland, New Zealand</tspan></text>
+    <text x="50" y="410"><tspan class="cc"></tspan><tspan class="key">Seeking</tspan>:<tspan class="cc"> ............... </tspan><tspan class="accent">Graduate &amp; internship opportunities</tspan></text>
+
+    <text x="50" y="530"><tspan class="cc"></tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">hemishpatel2005@gmail.com</tspan></text>
+    <a href="https://www.linkedin.com/in/hemish--patel" target="_blank">
+      <text x="50" y="558"><tspan class="cc"></tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">linkedin.com/in/hemish--patel</tspan></text>
+    </a>
+  </g>
+</svg>
