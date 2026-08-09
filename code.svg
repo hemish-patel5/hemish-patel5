@@ -18,10 +18,10 @@
     <text x="47" y="45"><tspan class="cc">------------------------------------------------------- </tspan></text>
     
     <text x="50" y="69"><tspan class="cc"></tspan><tspan class="key">Education</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Software Engineering @ AUT</tspan></text>
-    <text x="50" y="97"><tspan class="cc"></tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Full-stack, Embedded, ML</tspan></text>
-    <text x="50" y="125"><tspan class="cc"></tspan><tspan class="key">Languages</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Python, JavaScript, C#, C++</tspan></text>
-    <text x="50" y="153"><tspan class="cc"></tspan><tspan class="key">Also</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">Java, SQL, HTML, CSS</tspan></text>
-    <text x="50" y="181"><tspan class="cc"></tspan><tspan class="key">Frameworks</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">React, Node.js, TensorFlow</tspan></text>
+    <text x="50" y="97"><tspan class="cc"></tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Full-stack, Embedded Systems, Machine Learning</tspan></text>
+    <text x="50" y="125"><tspan class="cc"></tspan><tspan class="key">Languages</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Python, JavaScript, Java, C++</tspan></text>
+    <text x="50" y="153"><tspan class="cc"></tspan><tspan class="key">Also</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">SQL, HTML, CSS, PHP</tspan></text>
+    <text x="50" y="181"><tspan class="cc"></tspan><tspan class="key">Frameworks</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">FastAPI, React, Next.js</tspan></text>
     <text x="50" y="209"><tspan class="cc"></tspan><tspan class="key">Hardware</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Raspberry Pi, ESP32, Arduino</tspan></text>
     <text x="50" y="237"><tspan class="cc"></tspan><tspan class="key">Tools</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Git, Linux, Docker, MQTT</tspan></text>
 
