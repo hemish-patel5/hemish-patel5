@@ -15,7 +15,7 @@
 
   <g class="text" xml:space="preserve">
     <text x="47" y="30"><tspan class="key">hemish@patel </tspan></text>
-    <text x="47" y="45"><tspan class="cc">------------------------------------------------------- </tspan></text>
+    <text x="47" y="45"><tspan class="value">------------------------------------------------------- </tspan></text>
     
     <text x="50" y="69"><tspan class="cc"></tspan><tspan class="key">Education</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Software Engineering @ AUT</tspan></text>
     <text x="50" y="97"><tspan class="cc"></tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Full-stack, Embedded Systems, Machine Learning</tspan></text>
