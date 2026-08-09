@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="480" viewBox="0 0 660 480" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="660" height="470" viewBox="0 0 660 470" role="img" aria-labelledby="title desc">
   <title id="title">Hemish Patel GitHub profile</title>
   <desc id="desc">Terminal-style profile showing Hemish Patel's education, interests, technologies, projects, and contact details.</desc>
-  <rect width="660" height="480" fill="#2d2c31"/>
+  <rect width="660" height="470" fill="#2d2c31"/>
   <style>
     .text { font: 14px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; fill: #f8f8f2; }
     .art { font: 16px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; fill: #8ae234; }
