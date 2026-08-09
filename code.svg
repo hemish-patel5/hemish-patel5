@@ -23,11 +23,14 @@
     <text x="50" y="153"><tspan class="cc"></tspan><tspan class="key">Also</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">SQL, HTML, CSS, PHP</tspan></text>
     <text x="50" y="181"><tspan class="cc"></tspan><tspan class="key">Frameworks</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">FastAPI, React, Next.js</tspan></text>
     <text x="50" y="209"><tspan class="cc"></tspan><tspan class="key">Hardware</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Raspberry Pi, ESP32, Arduino</tspan></text>
-    <text x="50" y="237"><tspan class="cc"></tspan><tspan class="key">Tools</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Git, Linux, Docker, MQTT</tspan></text>
+    <text x="50" y="237"><tspan class="cc"></tspan><tspan class="key">Tools</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Git, GitHub, GitLab, BitBucket, VSCode, Jupyter</tspan></text>
+    <text x="50" y="265"><tspan class="cc"></tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Linux / Windows / macOS</tspan></text>
+    <text x="50" y="293"><tspan class="cc"></tspan><tspan class="key">Currently</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Building cool things</tspan></text>
 
-    <text x="50" y="265"><tspan class="cc"></tspan><tspan class="key">Status</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Final-year Software Engineering Student</tspan></text>
-    <text x="50" y="293"><tspan class="cc"></tspan><tspan class="key">Location</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Auckland, New Zealand</tspan></text>
-    <text x="50" y="321"><tspan class="cc"></tspan><tspan class="key">Seeking</tspan>:<tspan class="cc"> ............... </tspan><tspan class="accent">Graduate &amp; internship opportunities</tspan></text>
+
+    <text x="50" y="321"><tspan class="cc"></tspan><tspan class="key">Status</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Final-year Software Engineering Student</tspan></text>
+    <text x="50" y="349"><tspan class="cc"></tspan><tspan class="key">Location</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Auckland, New Zealand</tspan></text>
+    <text x="50" y="377"><tspan class="cc"></tspan><tspan class="key">Seeking</tspan>:<tspan class="cc"> ............... </tspan><tspan class="accent">Graduate &amp; internship opportunities</tspan></text>
 
     <text x="50" y="349"><tspan class="cc"></tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">hemishpatel2005@gmail.com</tspan></text>
     <a href="https://www.linkedin.com/in/hemish--patel" target="_blank">
