@@ -14,14 +14,14 @@
   </style>
 
   <g class="text" xml:space="preserve">
-    <text x="47" y="30"><tspan class="key">hemish@patel </tspan></text>
-    <text x="47" y="45"><tspan class="value">------------------------------------------------------- </tspan></text>
+    <text x="49" y="30"><tspan class="key">hemish@patel </tspan></text>
+    <text x="49" y="45"><tspan class="value">------------------------------------------------------- </tspan></text>
     
     <text x="50" y="69"><tspan class="cc"></tspan><tspan class="key">Education</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Software Engineering @ AUT</tspan></text>
-    <text x="50" y="97"><tspan class="cc"></tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Full-stack, Embedded Systems, Machine Learning</tspan></text>
+    <text x="50" y="97"><tspan class="cc"></tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Full-stack, Machine Learning, Embedded Systems</tspan></text>
     <text x="50" y="125"><tspan class="cc"></tspan><tspan class="key">Languages</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Python, JavaScript, Java, C++</tspan></text>
     <text x="50" y="153"><tspan class="cc"></tspan><tspan class="key">Also</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">SQL, HTML, CSS, PHP</tspan></text>
-    <text x="50" y="181"><tspan class="cc"></tspan><tspan class="key">Frameworks</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">FastAPI, React, Next.js</tspan></text>
+    <text x="50" y="181"><tspan class="cc"></tspan><tspan class="key">Frameworks</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">FastAPI, React,Flask, Next.js</tspan></text>
     <text x="50" y="209"><tspan class="cc"></tspan><tspan class="key">Hardware</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Raspberry Pi, ESP32, Arduino</tspan></text>
     <text x="50" y="237"><tspan class="cc"></tspan><tspan class="key">Tools</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Git, GitHub, GitLab, BitBucket, VSCode, Jupyter</tspan></text>
     <text x="50" y="265"><tspan class="cc"></tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Linux / Windows / macOS</tspan></text>
@@ -29,7 +29,7 @@
 
 
     <text x="50" y="321"><tspan class="cc"></tspan><tspan class="key">Location</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Auckland, New Zealand</tspan></text>
-    <text x="50" y="349"><tspan class="cc"></tspan><tspan class="key">Seeking</tspan>:<tspan class="cc"> ............... </tspan><tspan class="accent">Graduate &amp; internship opportunities</tspan></text>
+    <text x="50" y="349"><tspan class="cc"></tspan><tspan class="key">Seeking</tspan>:<tspan class="cc"> ............... </tspan><tspan class="accent">Graduate &amp; Internship opportunities</tspan></text>
 
     <text x="50" y="377"><tspan class="cc"></tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">hemishpatel2005@gmail.com</tspan></text>
     <a href="https://www.linkedin.com/in/hemish--patel" target="_blank">
