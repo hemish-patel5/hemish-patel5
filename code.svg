@@ -18,7 +18,7 @@
     <text x="49" y="45"><tspan class="value">------------------------------------------------------------------------- </tspan></text>
     
     <text x="50" y="69"><tspan class="cc"></tspan><tspan class="key">Education</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Software Engineering @ AUT</tspan></text>
-    <text x="50" y="97"><tspan class="cc"></tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Full-stack, Embedded Systems and Machine Learning</tspan></text>
+    <text x="50" y="97"><tspan class="cc"></tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Full-stack, Embedded Systems, Machine Learning</tspan></text>
     <text x="50" y="125"><tspan class="cc"></tspan><tspan class="key">Languages</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Python, JavaScript, Java, C++</tspan></text>
     <text x="50" y="153"><tspan class="cc"></tspan><tspan class="key">Also</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">SQL, HTML, CSS, PHP</tspan></text>
     <text x="50" y="181"><tspan class="cc"></tspan><tspan class="key">Frameworks</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">FastAPI, React, Flask, Next.js</tspan></text>
